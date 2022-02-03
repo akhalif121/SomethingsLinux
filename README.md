@@ -1,4 +1,4 @@
-# Something Linux
+# Somethings Linux
 
 Hi! I'm Adam and I am currently aiming to become an exceptional Cloud/ DevOps Engineer. I'm taking the necessary steps to prepare myself for my future role. 
 
