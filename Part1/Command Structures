@@ -1,1 +1,13 @@
-###### Command Structures ######
+All commands are essentially programs which are already on your PC.
+
+The general command structure would be:
+CommandName Options Inputs 
+
+However, not all commands require an input.
+
+If you enter the calendar 🗓 "cal" command the current month with the highlight day would appear.
+
+
+
+On the other hand if you enter "cal 2022" command the complete years calendar 🗓 appears. The input of the command caused the output to change.
+
