@@ -10,38 +10,43 @@ By the end of this repo day, I hope to be profficient with linux and be able to 
 
 I will be understanding & demonstrating Linux through various ways...
 
-The first and the most important topic I will start with is:
+Part 1:
 
-Understanding the how and the why of the linux command line.
+The first and the most important topic I will cover is:
 
-Understanding what Linux commands are and how they are structured.
+- Understanding the how and the why of the linux command line.
 
-Understanding the difference between limux terminal and shell 
+- Understanding what Linux commands are and how they are structured.
 
-Understand the difference between input and output
+ - Understanding the difference between limux terminal and shell 
 
+ - Understand the difference between input and output
 
-In the second part of this repo I will demonstrate the Linux File System. This will increase my productivity while by working with commands through the Linux Command Line.
+Part 2:
 
-I will learn and demonstate the following: 
+In this part I will demonstrate the Linux File System. This aim to increase my productivity by working with commands through the Linux Command Line.
 
-How to Create files and folders in Linux 
+ - I will learn and demonstate the following: 
 
-How to Delete files and folders in Linux
+ - How to Create files and folders in Linux 
 
-How to Copy and paste files and folders in Linux.
+ - How to Delete files and folders in Linux
 
-How to Move and Rename files and folders in Linux.
+ - How to Copy and paste files and folders in Linux.
 
-How to Find files and Sort data in Linux.
+ - How to Move and Rename files and folders in Linux.
 
-How to Backup and Compress files and folders in Linux.
+ - How to Find files and Sort data in Linux.
 
-ALL FROM THE COMMAND LINE!
+ - How to Backup and Compress files and folders in Linux.
+ 
+**ALL FROM THE COMMAND LINE!**
 
-In the third part of this repo I will write bash scripts and attemp to save time by automating tasks and Schedules.
+Part 3:
 
-In the fourth part of this repo I will touch on Linux software Management (package managers and software repositories.
+In this part I will write bash scripts and attemp to save time by automating tasks and Schedules.
+
+In the fourth part of this repo I will touch on Linux software Management (package managers and software repositories).
 
 
 Please click the link below to access the course I will be following to gain this valuable information:
