@@ -3,6 +3,12 @@ All commands are essentially programs which are already on your PC.
 The general command structure would be:
 CommandName Options Inputs 
 
+CommandName needs to be on the shell search path.
+
+options modify a commands behaviour.
+
+Commands operate on inputs.
+
 However, not all commands require an input.
 
 If you enter the calendar 🗓 "cal" command the current month with the highlight day would appear.
