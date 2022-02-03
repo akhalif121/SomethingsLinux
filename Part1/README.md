@@ -17,9 +17,14 @@ An Operating System usually sits between applications and hardware and makes the
 
 The commands are simple texts. The shell interprets the text(command).
 
+The best shell is the most common shell. Ubuntu uses bash shell by default.
+
+Different shells can interpret shells differently.
+
 ## So what does the terminal do? ##
 
 The terminal is your access to the shell. ie where you can input commands to be interpreted.
+
 
 
 
