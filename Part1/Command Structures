@@ -17,4 +17,4 @@ Short form options can be combined for example: "date -abcdefg"
 
 Short form options do not need to be in any particular order for the command to be accepted: "date -bagfced"
 
-Long form options cannot be combined and also need 2 "--" 
+Long form options cannot be combined and also need 2 "--" for example "date -universal" is the long form option in comparison to the short form option "-u"
