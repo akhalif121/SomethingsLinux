@@ -46,7 +46,7 @@ Part 3:
 
 In this part I will write bash scripts and attemp to save time by automating tasks and Schedules.
 
-In the fourth part of this repo I will touch on Linux software Management (package managers and software repositories).
+ - In the fourth part of this repo I will touch on Linux software Management (package managers and software repositories).
 
 
 Please click the link below to access the course I will be following to gain this valuable information:
