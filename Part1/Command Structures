@@ -11,3 +11,8 @@ On the other hand if you enter "cal 2022" command the complete years calendar ðŸ
 
 Some commands can also be given two inputs. If the command "cal 4 2022" was entered, the complete calendar ðŸ—“ of the month of april should appear.
 
+2 types of options - Long form options and short form options 
+
+Short form options can be combined for example: "date -abcdefg"
+Short form options do not need to be in any particular order for the command to be accepted: "date -bagfced"
+Long form options cannot be combined and also need 2 "--" 
