@@ -6,6 +6,28 @@ Each commaand can have a completely different output, so how do we know what com
 
 📄 Man (Manuals) Pages📄
 
+Linux Man pages has 8 sections.
+
+/Users/theboss/Desktop/Screenshot 2022-02-03 at 23.19.17.png
+
+
+How to know what sections to look for within the manual.
+
+Man -k is the command used to search the manual.
+  
+  -k is a serach option for searching man pages
+
+  Sections which are usually within a man page...
+
+ -  Name 
+ -  Synopsis - Layout of how to use the command - Structure
+ -  Description - describes what the command actually does (usually the most useful part)
+ -  Options
+ -  Exit status
+
+/Users/theboss/Desktop/Screenshot 2022-02-03 at 23.44.33.png
+
+
 
 
 
