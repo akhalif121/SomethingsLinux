@@ -13,12 +13,13 @@ However, not all commands require an input.
 
 If you enter the calendar 🗓 "cal" command the current month with the highlight day would appear.
 
-
-On the other hand if you enter "cal 2022" command the complete years calendar 🗓 appears. The input of the command caused the output to change.
-
 <p align="centre">
   <img width="180" src="Macintosh HD/Users/theboss/Desktop/SomethingsLinux/Part1/Screenshot/2022-02-03 at 23.12.41.png">
  </p>
+
+
+On the other hand if you enter "cal 2022" command the complete years calendar 🗓 appears. The input of the command caused the output to change.
+
 
 Some commands can also be given two inputs. If the command "cal 4 2022" was entered, the complete calendar 🗓 of the month of april should appear.
 
