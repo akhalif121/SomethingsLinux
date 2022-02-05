@@ -17,7 +17,7 @@ If you enter the calendar 🗓 "cal" command the current month with the highligh
 On the other hand if you enter "cal 2022" command the complete years calendar 🗓 appears. The input of the command caused the output to change.
 
 <p> align="centre"
- <img width="180" src "/Users/theboss/Desktop/SomethingsLinux/Part1/Screenshot">
+ <img width="180" src "022-02-03 at 23.12.41.png">
  </p>
 
 Some commands can also be given two inputs. If the command "cal 4 2022" was entered, the complete calendar 🗓 of the month of april should appear.
