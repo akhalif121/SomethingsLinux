@@ -15,7 +15,7 @@ If you enter the calendar 🗓 "cal" command the current month with the highligh
 
 <p align="center">
   <img width="200" src="/SomethingsLinux/Part1/Command Structures/linuxpic.png">
- </p>
+</p>
 
 On the other hand if you enter "cal 2022" command the complete years calendar 🗓 appears. The input of the command caused the output to change.
 
